@@ -1,5 +1,10 @@
 Codebook for tidy.txt
 
+tidy.txt was created using run_analysis.R
+
+see README.md for high-level overview of course project
+
+
 
 Names for tidy data frame contained within tidy.txt are as follows:
  [1] "activitydesc"                    "subject"                         "tBodyAcc-mean()-X"              
